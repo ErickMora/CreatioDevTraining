@@ -1,0 +1,20 @@
+﻿{
+  "Descriptor": {
+    "UId": "1ea9bcde-ae21-90e8-a79c-47e0c59da079",
+    "Name": "MyDevPkg",
+    "ModifiedOnUtc": "\/Date(1671576336000)\/",
+    "Maintainer": "Customer",
+    "DependsOn": [
+      {
+        "UId": "5be3998b-c5c3-42bb-a01c-2e4149059a97",
+        "PackageVersion": "7.8.0",
+        "Name": "Base"
+      },
+      {
+        "UId": "fe1effeb-74f2-42c5-b5e1-dfe0313b86bf",
+        "PackageVersion": "7.8.0",
+        "Name": "Studio"
+      }
+    ]
+  }
+}

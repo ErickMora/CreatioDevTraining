@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "f69556f8-faaf-4e2d-91b9-492b384794c6",
+    "Name": "DataGridFilterPage",
+    "ModifiedOnUtc": "\/Date(1671572236000)\/",
+    "Parent": {
+      "UId": "cac13762-fb03-4910-a152-b3a72118f280",
+      "Name": "DataGridFilterPage"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "ContactSectionV2 ",
+    "DependsOn": []
+  }
+}
