@@ -1,0 +1,21 @@
+﻿{
+  "Descriptor": {
+    "UId": "757b2489-f382-8a14-08fe-dc74e2686805",
+    "Name": "PackageOne",
+    "ModifiedOnUtc": "\/Date(1671645657000)\/",
+    "Maintainer": "Customer",
+    "Description": "https://github.com/ErickMora/CreatioDevTraining",
+    "DependsOn": [
+      {
+        "UId": "2fabaf6c-0f92-4530-aef8-40345c021da2",
+        "PackageVersion": "7.8.0",
+        "Name": "ProductCore"
+      },
+      {
+        "UId": "fe1effeb-74f2-42c5-b5e1-dfe0313b86bf",
+        "PackageVersion": "7.8.0",
+        "Name": "Studio"
+      }
+    ]
+  }
+}
