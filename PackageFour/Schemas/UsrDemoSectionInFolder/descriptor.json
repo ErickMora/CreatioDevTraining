@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "9308763d-804f-4369-b553-dc3551d07a40",
+    "Name": "UsrDemoSectionInFolder",
+    "ModifiedOnUtc": "\/Date(1672758072000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "DemoSection in Folder"
+  }
+}

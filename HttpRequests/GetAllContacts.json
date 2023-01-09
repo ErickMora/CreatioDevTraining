@@ -1,0 +1,137 @@
+{
+	"rootSchemaName": "Contact",
+	"columns": {
+		"items": {
+			"Id": {
+				"caption": "",
+				"orderDirection": 0,
+				"orderPosition": -1,
+				"isVisible": true,
+				"expression": {
+					"expressionType": 0,
+					"columnPath": "Id"
+				}
+			},
+			"Name": {
+				"caption": "",
+				"orderDirection": 0,
+				"orderPosition": -1,
+				"isVisible": true,
+				"expression": {
+					"expressionType": 0,
+					"columnPath": "Name"
+				}
+			},
+			"Photo": {
+				"caption": "",
+				"orderDirection": 0,
+				"orderPosition": -1,
+				"isVisible": true,
+				"expression": {
+					"expressionType": 0,
+					"columnPath": "Photo"
+				}
+			},
+			"Account": {
+				"caption": "Account",
+				"orderDirection": 0,
+				"orderPosition": -1,
+				"isVisible": true,
+				"expression": {
+					"expressionType": 0,
+					"columnPath": "Account"
+				}
+			},
+			"Job": {
+				"caption": "Job title",
+				"orderDirection": 0,
+				"orderPosition": -1,
+				"isVisible": true,
+				"expression": {
+					"expressionType": 0,
+					"columnPath": "Job"
+				}
+			},
+			"Phone": {
+				"caption": "Business phone",
+				"orderDirection": 0,
+				"orderPosition": -1,
+				"isVisible": true,
+				"expression": {
+					"expressionType": 0,
+					"columnPath": "Phone"
+				}
+			},
+			"Email": {
+				"caption": "Email",
+				"orderDirection": 0,
+				"orderPosition": -1,
+				"isVisible": true,
+				"expression": {
+					"expressionType": 0,
+					"columnPath": "Email"
+				}
+			},
+			"City": {
+				"caption": "City",
+				"orderDirection": 0,
+				"orderPosition": -1,
+				"isVisible": true,
+				"expression": {
+					"expressionType": 0,
+					"columnPath": "City"
+				}
+			},
+			"MobilePhone": {
+				"caption": "Mobile",
+				"orderDirection": 0,
+				"orderPosition": -1,
+				"isVisible": true,
+				"expression": {
+					"expressionType": 0,
+					"columnPath": "MobilePhone"
+				}
+			},
+			"EntryPointsCount": {
+				"caption": "",
+				"orderDirection": 0,
+				"orderPosition": -1,
+				"isVisible": true,
+				"expression": {
+					"expressionType": 3,
+					"aggregationType": 1,
+					"columnPath": "[EntryPoint:EntityId].Id",
+					"subFilters": {
+						"items": {
+							"7f7c2810-ab73-4da6-b3b5-3dec4aa1ec3b": {
+								"filterType": 1,
+								"comparisonType": 3,
+								"isEnabled": true,
+								"trimDateTimeParameterToDate": false,
+								"leftExpression": {
+									"expressionType": 0,
+									"columnPath": "IsActive"
+								},
+								"rightExpression": {
+									"expressionType": 2,
+									"parameter": {
+										"dataValueType": 1,
+										"value": true
+									}
+								}
+							}
+						},
+						"logicalOperation": 0,
+						"isEnabled": true,
+						"filterType": 6
+					}
+				}
+			}
+		}
+	},
+	"rowCount": 30,
+	"rowsOffset": 0,
+	"isPageable": true,
+	"allColumns": false,
+	"ignoreDisplayValues": false
+}

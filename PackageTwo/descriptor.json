@@ -1,0 +1,17 @@
+﻿{
+  "Descriptor": {
+    "UId": "1ef7f157-4260-49ed-b952-9371094b9991",
+    "PackageVersion": "7.8.0",
+    "Name": "PackageTwo",
+    "ModifiedOnUtc": "\/Date(1671722087000)\/",
+    "Maintainer": "Customer",
+    "Description": "First package made with CLIO",
+    "DependsOn": [
+      {
+        "UId": "2fabaf6c-0f92-4530-aef8-40345c021da2",
+        "PackageVersion": "7.8.0",
+        "Name": "ProductCore"
+      }
+    ]
+  }
+}

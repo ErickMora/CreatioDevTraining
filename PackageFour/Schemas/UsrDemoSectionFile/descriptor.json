@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "e170fd36-8299-4fc8-82a8-d109ab73a389",
+    "Name": "UsrDemoSectionFile",
+    "ModifiedOnUtc": "\/Date(1672758054000)\/",
+    "Parent": {
+      "UId": "556c5867-60a7-4456-aae1-a57a122bef70",
+      "Name": "File"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "DemoSection attachment"
+  }
+}

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.FormulaTask1.Caption" Value="Assing result value" />
+			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Caption" Value="Logging" />
+			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Parameters.EntityId.Caption" Value="Object" />
+			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Parameters.EntityId.DisplayValue" Value="[#Record Id#]" />
+			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Parameters.EntitySchemaId.Caption" Value="Object schema" />
+			<Item Name="BaseElements.LinkEntityToProcessUserTask1.Parameters.EntitySchemaId.DisplayValue" Value="DemoSection" />
+			<Item Name="BaseElements.UserTask2.Caption" Value="BudgetValidation" />
+			<Item Name="BaseElements.UserTask2.Parameters.RecordId.Caption" Value="Record Id" />
+			<Item Name="BaseElements.UserTask2.Parameters.RecordId.DisplayValue" Value="[#Record Id#]" />
+			<Item Name="BaseElements.UserTask2.Parameters.Result.Caption" Value="Result of budget validation" />
+			<Item Name="Caption" Value="Processing_Stage" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.Caption" Value="Process instance caption" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+			<Item Name="Parameters.RecorId.Caption" Value="Record Id" />
+			<Item Name="Parameters.Result.Caption" Value="Result" />
+			<Item Name="Parameters.Result.DisplayValue" Value="2" />
+		</Items>
+	</Group>
+</Resources>

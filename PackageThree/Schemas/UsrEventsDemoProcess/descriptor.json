@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "8acfbd2f-eb18-4499-a5bd-069a1bfe5bf7",
+    "Name": "UsrEventsDemoProcess",
+    "ModifiedOnUtc": "\/Date(1672262714000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Events demo"
+  }
+}

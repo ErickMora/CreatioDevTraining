@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "696d0941-fbdf-4db7-b8d0-4df584471b70",
+    "Name": "UsrDemoSectionStatus",
+    "ModifiedOnUtc": "\/Date(1672758354000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "DemoSectionStatus"
+  }
+}

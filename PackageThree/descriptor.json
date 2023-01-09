@@ -1,0 +1,17 @@
+{
+  "Descriptor": {
+    "UId": "5715d51d-73ef-4e61-8466-1ef741d0f197",
+    "PackageVersion": "7.8.0",
+    "Name": "PackageThree",
+    "ModifiedOnUtc": "/Date(1672256758000)/",
+    "Maintainer": "Customer",
+    "Description": "Third package - Events",
+    "DependsOn": [
+      {
+        "UId": "2fabaf6c-0f92-4530-aef8-40345c021da2",
+        "PackageVersion": "7.8.0",
+        "Name": "ProductCore"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "909e0a22-5974-491a-bc74-a5e32433c482",
+    "Name": "UsrDemoSectionTag",
+    "ModifiedOnUtc": "\/Date(1672758081000)\/",
+    "Parent": {
+      "UId": "9e3f203c-e905-4de5-9468-335b193f2439",
+      "Name": "BaseTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "DemoSection section tag"
+  }
+}

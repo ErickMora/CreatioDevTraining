@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "9615fe6b-8348-440d-9f85-1ea3679c57cf",
+    "Name": "UsrProcessUserTask_BudgetValidation",
+    "ModifiedOnUtc": "\/Date(1672780293000)\/",
+    "ManagerName": "ProcessUserTaskSchemaManager",
+    "Caption": "BudgetValidation"
+  }
+}

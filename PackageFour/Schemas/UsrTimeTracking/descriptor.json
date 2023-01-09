@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "cfca5832-5877-4be2-b2ea-cfe919253ee2",
+    "Name": "UsrTimeTracking",
+    "ModifiedOnUtc": "\/Date(1672930733000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Time Tracking"
+  }
+}

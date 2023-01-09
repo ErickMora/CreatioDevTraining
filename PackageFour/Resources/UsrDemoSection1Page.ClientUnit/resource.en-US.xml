@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Edit page: &quot;DemoSection&quot;" />
+			<Item Name="LocalizableStrings.InvalidNameMessage.Value" Value="Name has to be 7 characters long or longer" />
+			<Item Name="LocalizableStrings.TabMyTabLabelMyFieldGroupGroupCaption.Value" Value="MyFieldGroup" />
+			<Item Name="LocalizableStrings.TabMyTabLabelTabCaption.Value" Value="MyTab" />
+			<Item Name="LocalizableStrings.UsrSchemaTimeTrackingDetailDetailCaptionOnPage.Value" Value="Time Tracking" />
+		</Items>
+	</Group>
+</Resources>

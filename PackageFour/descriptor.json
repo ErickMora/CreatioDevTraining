@@ -1,0 +1,10 @@
+{
+  "Descriptor": {
+    "UId": "d28f5e01-0bf6-4253-83c9-b765d22bc6b4",
+    "PackageVersion": "7.8.0",
+    "Name": "PackageFour",
+    "ModifiedOnUtc": "/Date(1672757121000)/",
+    "Maintainer": "Customer",
+    "DependsOn": []
+  }
+}
